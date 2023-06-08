@@ -7,6 +7,7 @@ body {
     font-family: 'Noto Sans JP',sans-serif;
     font-size: 1.171303074670571vw;
     color: #000000;
+    /*background-color: #DCDCDC;*/
     
     }
     
@@ -17,7 +18,7 @@ li {
 
 
 a {
-  color: #333;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -53,7 +54,7 @@ header {
 
 .header-inner {
   display: flex;
-  background-color: #FFFFFF;
+  background-color: #000;
   opacity: 0.7;
   justify-content: space-between;
   align-items: center;
@@ -88,11 +89,11 @@ header {
 }
 
 .nav-button{
-  background-color: #FFFFFF;
+  background-color: #000;
 }
 
 .navi-menu li {
-  background-color: #FFFFFF;
+  background-color: #000;
   font-size: 1.215vw;
   margin-left: 0.58565vw;
   text-align: center;
@@ -107,7 +108,7 @@ header {
 }
 
 .navi-menu li {
-  border:solid 0.18vw #0097a7;
+  border:solid 0.18vw #fff;
 }
 
 .navi-menu a{
@@ -163,6 +164,7 @@ position:relative;
   margin-left: 7.759882869692533vw;
   font-size: 2.635431918008785vw;
   line-height: 1.65em;
+  color:#fff;
 }
 
 /*スライダーのドッド非表示*/
@@ -204,14 +206,14 @@ position:relative;
   border-radius: 50%;
   width: 11.713vw;
   height: 11.713vw;
-  color: #0097a7;
+  color: #000080;
   font-size: 8px;
   text-align: center;
   
 }
 
 .circle{
-   border: solid 0.28vw #0097a7; 
+   border: solid 0.28vw #000080; 
 }
 
 .circle-txt{
@@ -241,7 +243,7 @@ position:relative;
   
 /*コンタクト*/
 .main-salon{
-  background-color: #b5e9ee;
+  background-color: #8eb8ff;
   padding: 4.3192vw 0;
 }
 
@@ -250,7 +252,7 @@ position:relative;
   font-family: 'Noto Serif JP', serif;
   font-weight: 700;
   font-size: 3.513909vw;
-  color: #0097a7;
+  color: #000080;
   text-align: center;
 }
 
@@ -285,7 +287,7 @@ position:relative;
 
 .salon-button{
   font-weight: 700;
-  background-color: #0097a7;
+  background-color: #000088;
   border-radius: 1.198vw;
   color: #FFFFFF;
   font-size: 2.342vw;
@@ -308,7 +310,7 @@ position:relative;
   font-weight: 700;
   font-size: 3.5139vw;
   text-align: center;
-  color: #0097a7;
+  color: #000080;
   padding-bottom: 4.312vw;
 }
 
@@ -334,7 +336,7 @@ position:relative;
 
 
 .feature-main-title span{
-  background: linear-gradient(transparent 20%, #b5e9ee 0%);
+  background: linear-gradient(transparent 20%, #BAD3FF 0%);
   height: 2.4vw;
 }
 
@@ -348,7 +350,7 @@ position:relative;
 }
 
 .feature1-description-title{
-  background-color: #0097a7;
+  background-color: #000080;
   width: 69.546vw;
   height: 4.09956vw;
   color: #ffffff;
@@ -451,14 +453,14 @@ position:relative;
   font-size: 2.63543vw;
   height: 4.3923vw;
   font-weight: 700;
-  background-color: #0097a7;
+  background-color: #000080;
   color: #FFFFFF;
   margin-bottom: 4.392386vw;
 }
 
 .feature2-l-cost{
   font-size: 5.85651vw;
-  color: #0097a7;
+  color: #000080;
   font-family: 'Noto Serif JP', serif;
   font-weight: 700;
 }
@@ -480,7 +482,7 @@ position:relative;
 .feature2-r-title{
   font-size: 2.63543vw;
   font-weight: 700;
-  background-color: #0097a7;
+  background-color: #000080;
   height: 4.3923vw;
   color: #FFFFFF;
   margin-bottom: 4.392386vw;
@@ -488,7 +490,7 @@ position:relative;
 
 .feature2-r-cost{
   font-size: 5.85651vw;
-  color: #0097a7;
+  color: #000080;
   font-weight: 700;
   font-family: 'Noto Serif JP', serif;
 }
@@ -594,7 +596,7 @@ tbodey{
 }
 
 .timetable-title{
-  background-color: #0097a7;
+  background-color: #000080;
   border-bottom: none;
 }
 
@@ -638,6 +640,7 @@ tr{
   font-family: 'Noto Serif JP', serif;
   font-weight: 700;
   padding-bottom: 4.392vw;
+  color :#000080;
 }
 
 #faq-list {
@@ -668,7 +671,7 @@ div.A_wrapper {
 }
 
 .A_wrapper {
-  border-top: solid 1px #0097a7;
+  border-top: solid 1px #000080;
   padding-top: 0.9vw;
 }
 
@@ -677,7 +680,7 @@ div.A_wrapper {
     top: 0.5vw;
     width: 2.6354vw;
     height: 2.6354vw;
-    background-color: #0097a7;
+    background-color: #000080;
     right: 1.6vw;
     color: #ffffff;
     font-size: 1.764128843338214vw;
@@ -686,7 +689,7 @@ div.A_wrapper {
 
 .Q_wrapper,.A_wrapper {
   display: flex;
-  color: #0097a7;
+  color: #000080;
   font-size: 1.3177121522694vw;
 }
 
