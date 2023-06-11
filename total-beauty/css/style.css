@@ -71,6 +71,8 @@ header {
   display: none;
 }
 
+
+
 .hamburger-button .hamburger-bars {
   font-size: 6.8571vw;
   color: #666;
@@ -81,6 +83,11 @@ header {
   margin: 10px;
   display: none;
 }
+
+.hamburger-menu{
+  display: none;
+}
+
 
 .navi-menu {
   display: flex;
@@ -790,6 +797,10 @@ h2 {
   margin-left: 4vw;
 }
 
+.header-contact{
+  display: none;
+}
+
 li .hamburger-navi-menu{
   line-height: 3vw;
 }
@@ -806,6 +817,7 @@ li .hamburger-navi-menu{
 }
 
 .hamburger-menu {
+  display: block;
   width: 100vw;
   position: absolute;
   font-size: 4.266666666666667vw;
@@ -829,7 +841,9 @@ li .hamburger-navi-menu{
   color: #000;
 }
 
-
+.nav-button{
+  background-color: #fff;
+}
 
 
 
