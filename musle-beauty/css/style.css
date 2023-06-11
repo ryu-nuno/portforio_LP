@@ -863,10 +863,11 @@ li .hamburger-navi-menu{
 .sub_title {
   position: absolute;
   font-size: 7.4666vw;
-  top:103vw;
-  margin:0 3vw;
+  top:70vw;
+  margin:0 9vw;
   line-height: 1.8em;
   text-align: center;
+  color: #000;
 }
 
 .sp_button {
@@ -874,12 +875,12 @@ li .hamburger-navi-menu{
   width: 56.53333333333333vw;
   height: 11.66666666666667vw;
   font-size: 4.8vw;
-  top: 135vw;
+  top: 100vw;
   left: -7vw;
   box-shadow: none;
   border-radius: 3.6vw;
   font-weight: 700;
-  background-color: #0097a7;
+  background-color: #000080;
   color: #FFFFFF;
   margin:0 29.574vw;
   text-align: center;
@@ -970,7 +971,7 @@ li .hamburger-navi-menu{
   font-family: 'Noto Serif JP', serif;
   font-weight: 700;
   font-size: 9.06vw;
-  color: #0097a7;
+  color: #000080;
   text-align: center;
   padding-bottom: 9vw;
 }
@@ -1004,12 +1005,12 @@ li .hamburger-navi-menu{
 }
 
 .salon-content2 span{
-  margin-right: 5.413vw;
+  margin-right: 3.213vw;
 }
 
 .salon-button{
   font-weight: 700;
-  background-color: #0097a7;
+  background-color: #000080;
   border-radius: 1.198vw;
   color: #FFFFFF;
   font-size: 5.333vw;
@@ -1034,7 +1035,7 @@ li .hamburger-navi-menu{
   font-weight: 700;
   font-size: 9.0666vw;
   text-align: center;
-  color: #0097a7;
+  color: #000080;
   padding-bottom: 4.312vw;
 }
 
@@ -1075,7 +1076,7 @@ li .hamburger-navi-menu{
 
 .feature1-description-title{
   background-color: #0097a7;
-  width: 92.26vw;
+  width: 94.26vw;
   height: 13.6vw;
   color: #ffffff;
   font-size: 4.8vw;
